@@ -1,0 +1,11 @@
+F:\Project Nothing\payasia\payasiasample\payasiasample\bin\Debug\netcoreapp2.0\payasiasample.deps.json
+F:\Project Nothing\payasia\payasiasample\payasiasample\bin\Debug\netcoreapp2.0\payasiasample.runtimeconfig.json
+F:\Project Nothing\payasia\payasiasample\payasiasample\bin\Debug\netcoreapp2.0\payasiasample.runtimeconfig.dev.json
+F:\Project Nothing\payasia\payasiasample\payasiasample\bin\Debug\netcoreapp2.0\payasiasample.dll
+F:\Project Nothing\payasia\payasiasample\payasiasample\obj\Debug\netcoreapp2.0\payasiasample.csprojAssemblyReference.cache
+F:\Project Nothing\payasia\payasiasample\payasiasample\obj\Debug\netcoreapp2.0\payasiasample.csproj.CoreCompileInputs.cache
+F:\Project Nothing\payasia\payasiasample\payasiasample\obj\Debug\netcoreapp2.0\payasiasample.AssemblyInfoInputs.cache
+F:\Project Nothing\payasia\payasiasample\payasiasample\obj\Debug\netcoreapp2.0\payasiasample.AssemblyInfo.cs
+F:\Project Nothing\payasia\payasiasample\payasiasample\bin\Debug\netcoreapp2.0\payasiasample.pdb
+F:\Project Nothing\payasia\payasiasample\payasiasample\obj\Debug\netcoreapp2.0\payasiasample.dll
+F:\Project Nothing\payasia\payasiasample\payasiasample\obj\Debug\netcoreapp2.0\payasiasample.pdb
